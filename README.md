@@ -60,10 +60,9 @@ postgres-book-manager/
 
 ### 1. Clone the repository
 
-Replace `YOUR_USERNAME` with your GitHub username or use the URL of your own fork.
 
 ```bat
-git clone https://github.com/YOUR_USERNAME/postgres-book-manager.git
+git clone https://github.com/MSirani/postgres-book-manager.git
 cd postgres-book-manager
 ```
 
